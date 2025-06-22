@@ -10,7 +10,7 @@ A python bot to apply all Linkedin Easy Apply jobs based on your preferences.
 - Can be used for many job search websites such as Linkedin, Glassdoor, AngelCo, Greenhouse, Monster, GLobalLogic and Djinni.
 
 To modify, use, get documentation or for you enquiries kindly contact me via: <br>
-**amin@boulouma.com**
+
 
 ## Donation and Support 🥳
 
